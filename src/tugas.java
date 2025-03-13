@@ -16,7 +16,7 @@ class Pensil {
         System.out.println("aku menggambar menggunakan " + benda);
     }
 
-    // Method untuk menanyakan lagi
+    // Method untuk meng iyakan
     public String gambar(String tamu) {
         return "ooalah, iya " + tamu;
     }
