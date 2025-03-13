@@ -26,7 +26,7 @@ class Pensil {
         // Membuat objek menggunakan constructor dengan parameter
         Pensil benda1 = new Pensil("Pensil HD");
         benda1.jenisApa();
-        System.out.println(benda1.gambar("nyed"));
+        System.out.println(benda1.gambar("bro"));
 
         // Membuat objek menggunakan constructor tanpa parameter
         Pensil benda2 = new Pensil();
