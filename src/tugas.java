@@ -17,8 +17,8 @@ class Pensil {
     }
 
     // Method untuk meng iyakan
-    public String gambar(String tamu) {
-        return "ooalah, iya " + tamu;
+    public String gambar(String panggilan) {
+        return "ooalah, iya " + panggilan;
     }
 
     // Main method untuk menjalankan program
